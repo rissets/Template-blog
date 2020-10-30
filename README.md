@@ -6,12 +6,17 @@ I provide you with a ready-to-use set of code snippets and utilities. This blog 
 
 ## Template Preview
 
-![Home](screenshot/home.png)
+<kbd>![Home](screenshot/home.png)<kbd/>
+| Home |
 
-<img src="screenshot/detail-post.png"
-     alt="Post Detail"
-     style="float: left; margin-right: 10px; height: 300px" />
+<br/>
+</br>
+
+<kbd>![Detail post](screenshot/detail-post.png)<kbd/>
+| Detail Post |
+     
 <br>
+
 ### Follow me! just kidding :)
 
 [<img align="left" alt="darisset.site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
