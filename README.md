@@ -1,36 +1,27 @@
 # Blog Template
 
 I provide you with a ready-to-use set of code snippets and utilities. This blog template consists of 7 different page variations, such as: homepage, user, post details, and several other pages. A preview of this great blog template is available here:
-
-## Admin Preview
-
-.. image:: screenshot/home.png
-:target: screenshot/home.png
-:height: 300px
-
-.. image:: screenshot/post-list.png
-:target: screenshot/post-list.png
-:height: 300px
-
-.. image:: screenshot/detail-post.png
-:target: screenshot/detail-post.png
-:height: 300px
-
-.. image:: screenshot/user.png
-:target: screenshot/user.png
-:height: 300px
-
-.. image:: screenshot/login.png
-:target: screenshot/login.png
-:height: 300px
-
-.. image:: screenshot/about.png
-:target: screenshot/about.png
-:height: 300px
-
-.. image:: screenshot/contact.png
-:target: screenshot/contact.png
-:height: 300px
-
 <br/>
-###  follow me! just kidding :)
+
+## Template Preview
+
+![Home](screenshot/home.png)
+
+<img src="screenshot/detail-post.png"
+     alt="Post Detail"
+     style="float: left; margin-right: 10px; height: 300px" />
+<br>
+### Follow me! just kidding :)
+
+[<img align="left" alt="darisset.site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Danangharis1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="danang-haris-setiawan-darisset | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mr.danang_haris | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+[website]: https://darisset.site
+[twitter]: https://twitter.com/Danangharisset1
+[instagram]: https://www.instagram.com/mr.danang_haris
+[linkedin]: https://www.linkedin.com/in/danang-haris-setiawan-darisset
+[webdevplaylist]: https://github.com/danangharissetiawan/danangharissetiawan
