@@ -7,13 +7,11 @@ I provide you with a ready-to-use set of code snippets and utilities. This blog 
 ## Template Preview
 
 <kbd>![Home](screenshot/home.png)<kbd/>
-| Home |
 
 <br/>
 </br>
 
 <kbd>![Detail post](screenshot/detail-post.png)<kbd/>
-| Detail Post |
      
 <br>
 
